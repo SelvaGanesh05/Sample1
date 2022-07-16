@@ -24,6 +24,9 @@ System.out.println("Test case 4");
 System.out.println("Test case 5");
 	}
 	
+	private void tc6() {
+System.out.println("Sam");
+	}
 	
 	public static void main(String[] args) {
 		Demo d= new Demo();
