@@ -31,6 +31,9 @@ System.out.println("Sample2 Tc1");
 	private void sampletc2() {
 System.out.println("Sample Tc2");
 	}
+	private void samplePrakash() {
+System.out.println("Praksh");
+	}
 	public static void main(String[] args) {
 		Demo d= new Demo();
 		d.tc1();
