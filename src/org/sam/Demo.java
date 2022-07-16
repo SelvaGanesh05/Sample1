@@ -24,7 +24,13 @@ System.out.println("Test case 4");
 System.out.println("Test case 5");
 	}
 	
+	private void sample2Tc1() {
+System.out.println("Sample2 Tc1");
+	}
 	
+	private void sampletc2() {
+System.out.println("Sample Tc2");
+	}
 	public static void main(String[] args) {
 		Demo d= new Demo();
 		d.tc1();
@@ -32,7 +38,7 @@ System.out.println("Test case 5");
 		d.tc3();
 		d.tc4();
 		d.tc5();
-		
+		d.sample2Tc1();
 	}
 	
 	
